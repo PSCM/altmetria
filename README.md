@@ -1,4 +1,4 @@
-# Objetivo do repositório:
+# Objetivos do repositório:
 
 - Disponibilizar os dados e os códigos relacionados ao artigo "Música e emoções: um estudo altmétrico da produção científica de 1970 a 2019", publicado no periódico "Em Questão", em 2022.
 - O artigo está disponível para leitura em: https://seer.ufrgs.br/EmQuestao/article/view/111905
